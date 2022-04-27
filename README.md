@@ -1,7 +1,7 @@
 <b>PENGUMPULAN TUGAS PRAKTIKUM GRAFIKA KOMPUTER</b>
-
-Nama : Bagas Dwi Sulistyo
-NIM  : 20051397076
-Kelas: 2020B Manajemen Informatika 
+<hr></hr>
+Nama : Bagas Dwi Sulistyo<br>
+NIM  : 20051397076<br>
+Kelas: 2020B Manajemen Informatika<br> 
 
 <b>Selamat membaca :)</b>
